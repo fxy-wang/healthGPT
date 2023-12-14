@@ -1,0 +1,7 @@
+openai
+csv
+bcrypt
+getpass
+json
+gradio
+pandas 
